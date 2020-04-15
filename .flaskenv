@@ -1,2 +1,2 @@
-FLASK_APP=.
+FLASK_APP=wsgy.py
 FLASK_DEBUG=1
